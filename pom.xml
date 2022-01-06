@@ -12,21 +12,20 @@
     <artifactId>bookstore</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>bookstore</name>
-    <description>Demo project for Spring Boot</description>
+    <description>Java web project for Spring Boot</description>
 
     <properties>
         <java.version>1.8</java.version>
     </properties>
 
     <dependencies>
+        <!--引入MyBatisPlus-->
+        <dependency>
+            <groupId>com.baomidou</groupId>
+            <artifactId>mybatis-plus</artifactId>
+            <version>3.1.1</version>
+        </dependency>
 
-        <!--&lt;!&ndash;引入MyBatisPlus&ndash;&gt;-->
-        <!--<dependency>-->
-            <!--<groupId>com.baomidou</groupId>-->
-            <!--<artifactId>mybatis-plus</artifactId>-->
-            <!--<version>3.1.1</version>-->
-        <!--</dependency>-->
-        <!--commons-lang-->
         <dependency>
             <groupId>commons-lang</groupId>
             <artifactId>commons-lang</artifactId>

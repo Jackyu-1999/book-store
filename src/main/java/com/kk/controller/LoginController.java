@@ -66,10 +66,6 @@ public class LoginController {
         return "index";
     }
 
-    @GetMapping("/noauth")
-    public String noauth() {
-        return "noauth";
-    }
 
     @GetMapping("welcome")
     public String welcome(){

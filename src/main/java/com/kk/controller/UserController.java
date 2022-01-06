@@ -19,9 +19,6 @@ import java.util.List;
 
 /**
  * (User)表控制层
- *
- * @author makejava
- * @since 2020-03-18 16:51:11
  */
 @Controller
 @RequestMapping("user")

@@ -52,7 +52,7 @@ public class ArticleController {
      * @return
      * @throws IOException
      */
-    //博客图片上传问题
+    //图片上传问题
     @RequestMapping("/file/upload")
     @ResponseBody
     public JSONObject fileUpload(@RequestParam(value = "editormd-image-file", required = true) MultipartFile file, HttpServletRequest request) throws IOException {
