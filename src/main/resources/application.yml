@@ -12,7 +12,7 @@ spring:
     cache: false
   servlet:
     multipart:
-      max-file-size: 5MB  #设置上传文件最大大小
+      max-file-size: 10MB  #设置上传文件最大大小
 
 server:
   tomcat:

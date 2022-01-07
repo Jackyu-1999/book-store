@@ -4,9 +4,6 @@ import java.io.Serializable;
 
 /**
  * (Article)实体类
- *
- * @author makejava
- * @since 2020-03-28 01:12:19
  */
 public class Article implements Serializable {
     private static final long serialVersionUID = -86149542952698496L;

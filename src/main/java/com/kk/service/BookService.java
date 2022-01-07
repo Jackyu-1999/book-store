@@ -5,9 +5,6 @@ import java.util.List;
 
 /**
  * (Book)表服务接口
- *
- * @author makejava
- * @since 2020-03-22 23:36:11
  */
 public interface BookService {
 

@@ -10,9 +10,6 @@ import java.util.List;
 
 /**
  * (Book)表服务实现类
- *
- * @author makejava
- * @since 2020-03-22 23:36:11
  */
 @Service("bookService")
 public class BookServiceImpl implements BookService {

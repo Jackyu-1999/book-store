@@ -29,7 +29,7 @@ CREATE TABLE `article`  (
   `title` varchar(100)  NOT NULL COMMENT '标题',
   `content` longtext NOT NULL COMMENT '文章的内容',
   PRIMARY KEY (`id`) 
-) ENGINE=InnoDB AUTO_INCREMENT=19 DEFAULT CHARSET=utf8;
+) ENGINE=InnoDB AUTO_INCREMENT=2 DEFAULT CHARSET=utf8;
 
 -- ----------------------------
 -- Records of article

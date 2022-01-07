@@ -9,9 +9,6 @@ import java.util.List;
 
 /**
  * (User)表数据库访问层
- *
- * @author makejava
- * @since 2020-03-18 16:51:11
  */
 @Mapper
 public interface UserDao {

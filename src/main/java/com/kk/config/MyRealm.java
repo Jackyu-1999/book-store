@@ -1,9 +1,5 @@
 package com.kk.config;
 
-/*
-@author kzj
-@date 2020/3/18 - 17:43
-*/
 
 import com.kk.entity.User;
 import com.kk.service.UserService;

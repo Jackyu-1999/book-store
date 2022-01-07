@@ -1,5 +1,5 @@
 # 项目简要说明文档
-## 一：快速上手
+## 一：环境搭建
 
 1. 如果电脑安装了`git`，可以直接在桌面右键单击`git bash here`打开`git`窗口。
 
@@ -9,13 +9,13 @@
 
    ![image-20220106214520852](README.assets/image-20220106214520852.png)
 
-3. 接着打开`IDEA`，点击`File->Open`,打开刚刚拉下来的`book-store`项目。
+3. 也可以直接解压之后打开`IDEA`，点击`File->Open`,打开`book-store`项目。
 
    ![image-20220106214805858](README.assets/image-20220106214805858.png)
 
 ![image-20220106214743140](README.assets/image-20220106214743140.png)
 
-4. 打开项目之后，首先需要修改的是数据库配置文件，我这里使用的数据库版本是`mysql 8`，数据库驱动写法为`com.mysql.cj.jdbc.Driver`。
+4. 打开项目之后，首先需要修改的是数据库配置文件，我这里使用的数据库版本是`mysql 8`，数据库驱动写法为`com.mysql.cj.jdbc.Driver`，如果用的是`mysql5.xx`版本，数据库驱动写法为`com.mysql.jdbc.Driver`。
 
    ![image-20220106215457301](README.assets/image-20220106215457301.png)
 
@@ -43,13 +43,13 @@
 
     ![image-20220106222510549](README.assets/image-20220106222510549.png)
 
-11. 打开火狐浏览器，在地址栏输入`http://localhost:9000`，回车，不出意外应该可以看到以下页面。
+11. 打开火狐浏览器（谷歌浏览器也可以），在地址栏输入`http://localhost:9000`，回车，不出意外应该可以看到以下页面。
 
     ![image-20220106222739277](README.assets/image-20220106222739277.png)
 
 
 
-## 二：项目预览
+## 二：项目使用
 
 - 登录
 

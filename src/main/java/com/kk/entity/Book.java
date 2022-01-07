@@ -7,9 +7,6 @@ import java.io.Serializable;
 
 /**
  * (Book)实体类
- *
- * @author makejava
- * @since 2020-03-22 23:36:10
  */
 //@Data
 public class Book implements Serializable {

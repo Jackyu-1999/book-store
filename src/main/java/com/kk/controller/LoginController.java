@@ -1,9 +1,6 @@
 package com.kk.controller;
 
-/*
-@author kzj
-@date 2020/3/17 - 19:50
-*/
+
 
 import com.kk.entity.User;
 import org.apache.shiro.SecurityUtils;

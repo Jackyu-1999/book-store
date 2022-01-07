@@ -10,9 +10,6 @@ import java.util.List;
 
 /**
  * (User)表服务实现类
- *
- * @author makejava
- * @since 2020-03-18 16:51:11
  */
 @Service("userService")
 public class UserServiceImpl implements UserService {

@@ -20,9 +20,6 @@ import java.util.UUID;
 
 /**
  * (Article)表控制层
- *
- * @author makejava
- * @since 2020-03-28 01:12:24
  */
 @Controller
 @RequestMapping("article")

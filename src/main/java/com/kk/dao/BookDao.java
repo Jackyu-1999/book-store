@@ -8,9 +8,6 @@ import java.util.List;
 
 /**
  * (Book)表数据库访问层
- *
- * @author makejava
- * @since 2020-03-22 23:36:11
  */
 public interface BookDao {
 

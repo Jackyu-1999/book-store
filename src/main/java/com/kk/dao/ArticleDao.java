@@ -7,9 +7,6 @@ import java.util.List;
 
 /**
  * (Article)表数据库访问层
- *
- * @author makejava
- * @since 2020-03-28 01:12:23
  */
 @Mapper
 public interface ArticleDao {

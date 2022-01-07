@@ -14,9 +14,6 @@ import java.util.List;
 
 /**
  * (Book)表控制层
- *
- * @author makejava
- * @since 2020-03-22 21:07:20
  */
 @Controller
 @RequestMapping("book")

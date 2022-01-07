@@ -1,9 +1,5 @@
 package com.kk.config;
 
-/*
-@author kzj
-@date 2020/3/18 - 17:38
-*/
 
 import at.pollux.thymeleaf.shiro.dialect.ShiroDialect;
 import org.apache.shiro.spring.security.interceptor.AuthorizationAttributeSourceAdvisor;

@@ -10,9 +10,6 @@ import java.util.List;
 
 /**
  * (Article)表服务实现类
- *
- * @author makejava
- * @since 2020-03-28 01:12:24
  */
 @Service("articleService")
 public class ArticleServiceImpl implements ArticleService {
